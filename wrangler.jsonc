@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "api-worker-aja",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "apiworkerdb",
+      "database_id": "3a71e415-4298-4b9d-864d-6d98816f9b68"
+    }
+  ]
+}
